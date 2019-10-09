@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+body {
+  background-color: grey;
+}
+input {
+	border-radius: 30px;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
